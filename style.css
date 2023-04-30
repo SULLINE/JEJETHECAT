@@ -1,0 +1,13 @@
+h1{color: blueviolet; font-size: 50px; text-align: center;}
+body{background-image: url(https://img.freepik.com/premium-vector/soft-pink-heart-blurred-background-vector_218660-852.jpg);}
+
+@media (max-width: 1280px) {
+    body {
+        background-color: deeppink;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: aquamarine;
+    }
+}
